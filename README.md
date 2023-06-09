@@ -54,3 +54,8 @@ Build the project: Once the packages are restored, you can build the project. Go
 
 For building with installer project, find the documentation [here](https://learn.microsoft.com/en-us/visualstudio/deployment/installer-projects-net-core?view=vs-2022).
 
+
+## Authors
+
+- [@raselmandol](https://www.github.com/raselmandol)
+
