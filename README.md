@@ -15,6 +15,7 @@ I am delighted to present UB GUI, a desktop application(made with C#(.NET)) that
 When this application is opened, it will be in Maximized mode, occupying the entire screen. To access other minimized applications, a button has been included to restore them, while the application itself will remain in full-screen mode. Only the taskbar will be visible, unhidden.
 
 ![Ubuntu GUI on Windows](https://raw.githubusercontent.com/raselmandol/ubGUI/main/Images/3.png)
+![Ubuntu GUI on Windows](https://raw.githubusercontent.com/raselmandol/ubGUI/main/Images/4.png)
 
 #### Default Notification
 While this application is opened in full-screen mode, the Default Notification System of Windows will continue to function. Notifications will remain visible at all times.
