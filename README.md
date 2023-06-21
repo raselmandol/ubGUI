@@ -37,7 +37,7 @@ Pull requests are accepted.
 
 ### Executables
 
-You can build your own executables from the latest source by running one of the commands below. Executables(with ConfuserX) can be found [here](https://github.com/raselmandol/ubGUI/tree/main/Release).
+You can build your own executables from the latest source by running one of the commands below. Executables(with ConfuserX) can be found [here](https://github.com/raselmandol/ubGUI/tree/main/Release). ConfuserEx Documentation [here](https://yck1509.github.io/ConfuserEx/).
 
 ### Compiling from source
 To import and compile the project in Visual Studio, you can follow these steps:
