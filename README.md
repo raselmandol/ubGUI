@@ -1,4 +1,4 @@
-# UB GUI (Under Development)
+# UB GUI 
 
 This application is under development and maintained by me. If you find any vulnerblity or have any recommendation please create a new issue or pr or directly reach me here [raselm@duck.com](raselm@duck.com) or visit [https://raselmandol.com](https://raselmandol.com) for other contact details. 
 
