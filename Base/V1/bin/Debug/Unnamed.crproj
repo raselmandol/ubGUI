@@ -1,0 +1,7 @@
+<project outputDir="D:\Visual Studio Works\ub\bin\Debug\Confused" baseDir="D:\Visual Studio Works\ub\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <module path="ub.exe">
+    <rule pattern="true" preset="maximum" inherit="false">
+      <protection id="invalid metadata" />
+    </rule>
+  </module>
+</project>
