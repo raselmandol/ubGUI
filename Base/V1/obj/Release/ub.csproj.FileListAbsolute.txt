@@ -1,0 +1,85 @@
+D:\Visual Studio Works\ub\bin\Release\ub.exe.config
+D:\Visual Studio Works\ub\bin\Release\ub.exe
+D:\Visual Studio Works\ub\bin\Release\ub.pdb
+D:\Visual Studio Works\ub\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Visual Studio Works\ub\bin\Release\FontAwesome.Sharp.dll
+D:\Visual Studio Works\ub\bin\Release\HidSharp.dll
+D:\Visual Studio Works\ub\bin\Release\LibreHardwareMonitorLib.dll
+D:\Visual Studio Works\ub\bin\Release\OpenHardwareMonitorLib.dll
+D:\Visual Studio Works\ub\bin\Release\System.CodeDom.dll
+D:\Visual Studio Works\ub\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\Visual Studio Works\ub\bin\Release\HidSharp.pdb
+D:\Visual Studio Works\ub\bin\Release\HidSharp.xml
+D:\Visual Studio Works\ub\bin\Release\LibreHardwareMonitorLib.xml
+D:\Visual Studio Works\ub\bin\Release\System.CodeDom.xml
+D:\Visual Studio Works\ub\bin\Release\Interop.WMPLib.dll
+D:\Visual Studio Works\ub\bin\Release\AxInterop.WMPLib.dll
+D:\Visual Studio Works\ub\obj\Release\ub.csproj.AssemblyReference.cache
+D:\Visual Studio Works\ub\obj\Release\ub.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Works\ub\obj\Release\Interop.WMPLib.dll
+D:\Visual Studio Works\ub\obj\Release\AxInterop.WMPLib.dll
+D:\Visual Studio Works\ub\obj\Release\ub.csproj.ResolveComReference.cache
+D:\Visual Studio Works\ub\obj\Release\ub.aboutMe.resources
+D:\Visual Studio Works\ub\obj\Release\ub.mainForm.resources
+D:\Visual Studio Works\ub\obj\Release\ub.Properties.Resources.resources
+D:\Visual Studio Works\ub\obj\Release\ub.csproj.GenerateResource.cache
+D:\Visual Studio Works\ub\obj\Release\ub.csproj.CoreCompileInputs.cache
+D:\Visual Studio Works\ub\obj\Release\ub.csproj.CopyComplete
+D:\Visual Studio Works\ub\obj\Release\ub.exe
+D:\Visual Studio Works\ub\obj\Release\ub.pdb
+D:\Backup\Visual Studio Works\ub\bin\Release\ub.exe.config
+D:\Backup\Visual Studio Works\ub\bin\Release\ub.exe
+D:\Backup\Visual Studio Works\ub\bin\Release\ub.pdb
+D:\Backup\Visual Studio Works\ub\bin\Release\FontAwesome.Sharp.dll
+D:\Backup\Visual Studio Works\ub\bin\Release\HidSharp.dll
+D:\Backup\Visual Studio Works\ub\bin\Release\LibreHardwareMonitorLib.dll
+D:\Backup\Visual Studio Works\ub\bin\Release\OpenHardwareMonitorLib.dll
+D:\Backup\Visual Studio Works\ub\bin\Release\System.CodeDom.dll
+D:\Backup\Visual Studio Works\ub\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\Backup\Visual Studio Works\ub\bin\Release\HidSharp.pdb
+D:\Backup\Visual Studio Works\ub\bin\Release\HidSharp.xml
+D:\Backup\Visual Studio Works\ub\bin\Release\LibreHardwareMonitorLib.xml
+D:\Backup\Visual Studio Works\ub\bin\Release\System.CodeDom.xml
+D:\Backup\Visual Studio Works\ub\bin\Release\Interop.WMPLib.dll
+D:\Backup\Visual Studio Works\ub\bin\Release\AxInterop.WMPLib.dll
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.csproj.AssemblyReference.cache
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.csproj.SuggestedBindingRedirects.cache
+D:\Backup\Visual Studio Works\ub\obj\Release\Interop.WMPLib.dll
+D:\Backup\Visual Studio Works\ub\obj\Release\AxInterop.WMPLib.dll
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.csproj.ResolveComReference.cache
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.aboutMe.resources
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.mainForm.resources
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.Properties.Resources.resources
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.csproj.GenerateResource.cache
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.csproj.CoreCompileInputs.cache
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.csproj.CopyComplete
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.exe
+D:\Backup\Visual Studio Works\ub\obj\Release\ub.pdb
+D:\GitHub\UB GUI\ub\bin\Release\ub.exe.config
+D:\GitHub\UB GUI\ub\bin\Release\ub.exe
+D:\GitHub\UB GUI\ub\bin\Release\ub.pdb
+D:\GitHub\UB GUI\ub\bin\Release\FontAwesome.Sharp.dll
+D:\GitHub\UB GUI\ub\bin\Release\HidSharp.dll
+D:\GitHub\UB GUI\ub\bin\Release\LibreHardwareMonitorLib.dll
+D:\GitHub\UB GUI\ub\bin\Release\OpenHardwareMonitorLib.dll
+D:\GitHub\UB GUI\ub\bin\Release\System.CodeDom.dll
+D:\GitHub\UB GUI\ub\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\GitHub\UB GUI\ub\bin\Release\HidSharp.pdb
+D:\GitHub\UB GUI\ub\bin\Release\HidSharp.xml
+D:\GitHub\UB GUI\ub\bin\Release\LibreHardwareMonitorLib.xml
+D:\GitHub\UB GUI\ub\bin\Release\System.CodeDom.xml
+D:\GitHub\UB GUI\ub\bin\Release\Interop.WMPLib.dll
+D:\GitHub\UB GUI\ub\bin\Release\AxInterop.WMPLib.dll
+D:\GitHub\UB GUI\ub\obj\Release\ub.csproj.AssemblyReference.cache
+D:\GitHub\UB GUI\ub\obj\Release\ub.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\UB GUI\ub\obj\Release\Interop.WMPLib.dll
+D:\GitHub\UB GUI\ub\obj\Release\AxInterop.WMPLib.dll
+D:\GitHub\UB GUI\ub\obj\Release\ub.csproj.ResolveComReference.cache
+D:\GitHub\UB GUI\ub\obj\Release\ub.aboutMe.resources
+D:\GitHub\UB GUI\ub\obj\Release\ub.mainForm.resources
+D:\GitHub\UB GUI\ub\obj\Release\ub.Properties.Resources.resources
+D:\GitHub\UB GUI\ub\obj\Release\ub.csproj.GenerateResource.cache
+D:\GitHub\UB GUI\ub\obj\Release\ub.csproj.CoreCompileInputs.cache
+D:\GitHub\UB GUI\ub\obj\Release\ub.csproj.CopyComplete
+D:\GitHub\UB GUI\ub\obj\Release\ub.exe
+D:\GitHub\UB GUI\ub\obj\Release\ub.pdb
